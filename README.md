@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @thaerichard
-- 👀 I’m interested in cyber security
+- 👋 Hi, I’m @richard_xc
+- 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me richardgbemisola15@gmail.com
